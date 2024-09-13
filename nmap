@@ -1,0 +1,2 @@
+HTB scan that looks for everything, a nice catch all when I don't care about getting caught
+db_nmap nmap -p- -vv -sS -A
