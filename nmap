@@ -1,5 +1,5 @@
 HTB scan that looks for everything, a nice catch all when I don't care about getting caught
-db_nmap nmap -sS -A -vv -p-
+db_nmap nmap -sV -O -vv -p- <IP ADDRESS>
 
 Default NSE script scan
 db_nmap nmap -sC -vv -p
